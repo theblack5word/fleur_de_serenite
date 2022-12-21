@@ -1,18 +1,18 @@
+html
+{
+}
 body
 {
-    background-image: url("image/lotus.jpg");
+    background-image: url("/media/img/lotus.jpg");
     background-repeat: no-repeat;
-    color: black ;   
+    color: black ;
 }
 
 footer
-{ 
-
+{
     width: 500px;
     margin: auto;
     border: 1px solid white;
-    
-    
 }
 
 section
